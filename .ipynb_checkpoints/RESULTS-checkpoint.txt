@@ -1,0 +1,16 @@
+#HYPOTHESIS
+
+STROOP INTEFEREANCE HYPOTHESIS
+    1. We expect that incongruent trials will produce longer reaction times and larger error rates compared to congruent trials.
+    2. Increasing the word weight should increase the reaction times and error rates in incongruent trials, while it should simutaneously
+       have minimal effect in congruent trials.     
+    3. Inconcgruent trials, should produce borader and more right skewed reaction time distiributions than those in congruent trials.
+
+
+#ANALYZING RESULTS
+    1. As we can see from the results, the incongruent trials have longer reaction times and higher error rate compared to congruent trials.
+    2. As we can see from the two plots named (Mean_Reaction_VS_Word_Weight and Error_Rate_VS_Word_Weight) when the word weight increases 
+       incongruent trials are affected the most with both reaction time and error rate increasing dramatically, while in congruent trials
+       the values stay very similar, with reaction time getting better as the word weight increases.
+    3. As we can see from the histogram for every incongruent trial the results are far broader and more right skewed than those in 
+       congruent trials. 
